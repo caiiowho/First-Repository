@@ -1,0 +1,109 @@
+===========================================================================================================================================
+Criar branch (dev neste caso é o nome para a Branch) - git branch dev
+
+Mudar de branch - git checkout dev
+
+Linha de comando para criar uma nova branch e mudar para ela simultaneamente - git checkout -b 'nome'
+
+Gerar uma cópia de um repositório online - git clone
+===========================================================================================================================================
+Requisitos Funcionais (RF) - O que o sistema faz / Descreve uma ação ou função que o sistema precisa executar
+- "O sistema deve ser rápido"
+- "O sistema deve ser seguro"
+
+Requisitos Não Funcionais (RNF) - Como o sistema se comporta
+- "O sistema deve calcular..."
+- "O sistema deve enviar..."
+===========================================================================================================================================
+"O sistema deve"+[verbo de ação]+[o quê?]+[para quem/em qual situação]
+
+O sistema deve possuir ilustrações de todos os produtos
+O sistema deve solicitar confirmação de idade
+O sistema deve exigir cadastro / login
+O sistema deve oferecer apresentar mensagem de Bem Vindo a logins novos 
+O sistema deve oferecer cupons ao finalizar o carrinho
+O sistema deve organizar os itens por categorias
+O sistema deve sugerir itens similares aos adicionados no carrinho
+O sistema deve oferecer diferentes opções de pagamento 
+O sistema deve identificar o entregador
+O sistema deve solicitar fornecer um código de validação ao comprador e solicitar o preenchimento do entregador
+===========================================================================================================================================
+
+
+O sistema deve solicitar autenticação de matrícula e senha do professor (Essencial)
+O sistema deve possuir checkboxes em tamanho adequado para o preenchimento ágil (Importante)
+O sistema deve organizar a lista sempre em ordem alfabética (Desejável)
+O sistema deve funcionar offline em caso de falta de sinal de internet (Importante).
+
+O RF abaixo está bem escrito? Por quê?
+
+Sim, foi escrito de modo em que a necessidade seja bem repassada ao programador. 
+
+===========================================================================================================================================
+Requisitos não funcionais por temas:
+
+Desempenho:
+
+O aplicativo deve carregar as informações principais em até 3 segundos
+
+Segurança
+
+O aplicativo deve exigir login com senha ou biometria para acessar a conta.
+
+Disponibilidade
+
+O aplicativo deve estar disponível para uso 24/7
+
+Usabilidade
+O aplicativo deve permitir que o usuário consulte o saldo na tela inicial
+
+Compatibilidade
+O aplicativo deve funcionar nas versões mais recentes de Android e iOS.
+
+===========================================================================================================================================
+Uma pizzaria quer criar um sistema de pedidos online. Hoje tudo é feito por telefone e há muita confusão com os pedidos errados
+
+Liste os stakeholders que você precisa consultar. Quem são e o que cada um sabe?
+
+Escolha 2 técnicas de coleta que usaria neste projeto e explique por quê.
+
+Escreva 4 perguntas de entrevista que você faria ao atendente da pizzaria. Use perguntas abertas.
+
+
+
+
+
+
+
+Stakeholder
+
+Dono da pizzaria
+Sabe sobre o negócio, regras, preços, promoções e objetivos (lucro, crescimento).
+
+Atendentes
+Sabem como os pedidos são feitos hoje, principais erros e dificuldades no atendimento.
+
+Cozinheiros/Pizzaiolos
+Sabem como os pedidos chegam na cozinha e onde ocorrem falhas ou confusões.
+
+Entregadores
+Sabem sobre problemas com endereços, atrasos e comunicação com clientes.
+
+
+2 -
+
+Entrevistas
+Porque permitem entender em profundidade os problemas e necessidades de cada pessoa envolvida.
+
+Observação do processo atual
+Porque ajuda a ver na prática onde acontecem erros e confusões, não só o que as pessoas dizem.
+
+3. Perguntas para o atendente (abertas)
+
+Como você registra um pedido atualmente, do início ao fim?
+
+Quais são os erros mais comuns que acontecem durante os pedidos?
+
+O que mais dificulta o seu trabalho no atendimento por telefone?
+
+Como você acha que um sistema online poderia ajudar no seu dia a dia?
